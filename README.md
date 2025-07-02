@@ -1,6 +1,6 @@
 # nanoGPT
 
-Reproduce GPT2 following https://github.com/karpathy/nanoGPT/tree/master
+Reproduce GPT2 following https://github.com/karpathy/nanoGPT
 
 Train on shakespeare (file input.txt) with a T4 GPU
 
