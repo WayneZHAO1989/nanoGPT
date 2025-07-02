@@ -6,4 +6,8 @@ Train on shakespeare (file input.txt) with a T4 GPU
 
 Model : 2 transformer layer with 91.64M parameters
 
+Model Modules
 ![image](https://github.com/WayneZHAO1989/nanoGPT/blob/main/asset/screenshot.jpg)
+
+Loss
+![image](https://github.com/WayneZHAO1989/nanoGPT/blob/main/asset/loss.png)
