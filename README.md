@@ -1,0 +1,2 @@
+# nanoGPT
+Reproduce GPT2 
